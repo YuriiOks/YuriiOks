@@ -1,41 +1,30 @@
 # Hi there 👋, I'm Yurii!
 
-I'm a passionate **math nerd** and **programming enthusiast** working on combining the best of both worlds. From competing in math and programming Olympiads to tutoring students in Python and C++, I’ve always loved solving complex problems and teaching others.
+I'm a passionate **math nerd** and **programming enthusiast** focused on combining **math** and **code**. From math and programming Olympiads to tutoring Python and C++, I’ve always loved solving complex problems and teaching others.
 
-## 💻 What I'm Working On
+## 💻 Current Projects
 
-Right now, I'm focused on developing a **LaTeX class template** called **MathsCodeBook**, which is designed to help students, educators, and professionals combine **math** and **code** effortlessly in their reports and documentation.
+- **[MathsCodeBook](https://github.com/YuriODev/MathsCodeBook)**: A LaTeX class template to help students, educators, and professionals combine math and code effortlessly.
+- Working on a **Python course** and a secret project 🤫💸.
 
-You can check out **MathsCodeBook** here:  
-[**MathsCodeBook on GitHub**](https://github.com/YuriODev/MathsCodeBook)
+## 🌱 Learning Focus
 
-I'm also working on a **Python course** and another secret project 🤫💸.
-
-## 🌱 What I'm Learning
-
-- Deepening my understanding of **advanced LaTeX** and document design.
-- Exploring new ways to combine **code snippets** with **math proofs** and **theorems**.
-- Building and maintaining community-driven open-source projects.
+- **Advanced LaTeX** and document design.
+- Combining **code snippets** with **math proofs** and theorems.
+- Building community-driven open-source projects.
 
 ## 💬 Ask Me About
 
-- **LaTeX**: Need help with setting up your LaTeX documents? I’ve got you covered.
-- **Python** & **C++**: Whether you’re just starting out or diving into more complex programming concepts, I love discussing programming challenges.
-- **Maths & Programming Olympiads**: Having participated in several Olympiads, I can share tips and experiences from my own journey.
+- **LaTeX**: Need help setting up LaTeX documents?
+- **Python** & **C++**: I'm happy to discuss programming challenges.
+- **Math & Programming Olympiads**: Tips and experiences from my journey.
 
-## 🎯 Current Goals
+## 🎯 Goals
 
-- Building **MathsCodeBook** into a robust tool for academic and professional use.
-- Connecting with others who are passionate about **math**, **programming**, and **open-source projects**.
-- Contributing to **educational content** that simplifies complex topics.
+- Grow **MathsCodeBook** into a robust academic tool.
+- Connect with fellow **math, programming**, and **open-source** enthusiasts.
+- Contribute to **educational content** that simplifies complex topics.
 
-## 📫 How to Reach Me
+## 📫 Let's Connect
 
-- **Patreon**: [**Support me on Patreon**](https://www.patreon.com/YuriODev)
-- **Twitter**: [**Follow me on Twitter**](https://twitter.com/YuriODev)
-- **LinkedIn**: [**Connect with me**](https://www.linkedin.com/in/y-oks)
-- **Email**: yurii.oksamytnyi@yuriodev.co.uk
-
-## ✨ Fun Fact
-
-I'm a huge fan of combining **technical problem-solving** with **creativity**, whether it's in writing efficient code, crafting beautiful LaTeX documents, or exploring new learning resources. I also love playing basketball in my free time!
+- **[Patreon](https://www.patreon.com/YuriODev)** | **[Twitter](https://twitter.com/YuriODev)** | **[LinkedIn](https://www.linkedin.com/in/y-oks)** | **Email**: yurii.oksamytnyi@yuriodev.co.uk
